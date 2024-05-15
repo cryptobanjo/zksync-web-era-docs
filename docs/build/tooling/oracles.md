@@ -31,6 +31,9 @@ Welcome to the Oracles page, a comprehensive hub dedicated to interacting with o
 
 [Gelato](https://docs.gelato.network/web3-services/vrf/understanding-vrf) provides access to Verifiable Random Functions (VRF) on zkSync. VRFs are cryptographic primitives that generate pseudorandom numbers in a way that is provably secure and verifiable. A VRF allows a holder of a private key to produce a random number along with a proof that the number was generated legitimately (making it publically verifable). More information, including how to use VRFs in your dApp, can be found in the Gelato docs.
 
+### Tellor
+[Tellor](https://docs.tellor.io) is an oracle protocol that incentivizes an open, permissionless network of data reporting and data validation, ensuring that data can be provided by anyone and checked by everyone. Built for any data type, our network of reporters supports your basic spot prices, more sophisticated pricing specs (TWAP/VWAP), RNG, or any custom data needs you have. If your data can be verified, Tellor can bring it on-chain.
+
 ### Usage guides
 
 - [RedStone](../tutorials/tooling-guides/redstone.md)
